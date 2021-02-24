@@ -2,6 +2,37 @@
 
 ---
 
+## [VULNERABILITY] Advantech Spectre RT Industrial Routers
+_24/02/2021_
+```
+Vulnerability affects :
+- Spectre RT ERT351 firmware Versions 5.1.3 and prior
+
+Vulnerability risks:
+- information disclosure
+- deletion of files
+- remote code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-054-03)
+- [EN] [Advantech](https://ep.advantech-bb.cz/support/router-models/download/511/sa-2021-01-fw-5.1.3-and-older-en.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2019-18233](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-18233)
+> - [EN] [CVE-2019-18231](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-18231)
+> - [EN] [CVE-2019-18235](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-18235)
+> - [EN] [CVE-2018-20679](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-20679)
+> - [EN] [CVE-2016-6301](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-6301)
+> - [EN] [CVE-2015-9261](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-9261)
+> - [EN] [CVE-2016-2842](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-2842)
+> - [EN] [CVE-2016-0799](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0799)
+> - [EN] [CVE-2016-6304](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-6304)
+
+---
+
 ## [VULNERABILITY] Rockwell Automation FactoryTalk Services Platform
 _24/02/2021_
 ```
