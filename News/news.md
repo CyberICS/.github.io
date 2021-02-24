@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Advantech BB-ESWGP506-2SFP-T
+_24/02/2021_
+```
+Vulnerability affects :
+- BB-ESWGP506-2SFP-T industrial ethernet switches: Versions 1.01.09 and prior
+
+Vulnerability risks:
+-  execute arbitrary code (Hard-coded Credentials)
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-054-02)
+- [EN] [CCCS](https://cyber.gc.ca/en/alerts/control-systems-advantech-security-advisory-12)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22667](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22667)
+
+---
+
 ## [VULNERABILITY] Advantech Spectre RT Industrial Routers
 _24/02/2021_
 ```
