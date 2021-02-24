@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation FactoryTalk Services Platform
+_24/02/2021_
+```
+Vulnerability affects :
+- FactoryTalk Services Platform Versions 6.10.00 and 6.11.00
+
+Vulnerability risks:
+- A remote and unauthenticated attacker to create new users in the FactoryTalk Services Platform administration console
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Rockwell - login required](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1127439/loc/en_US#__highlight)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-054-01)
+
+> ###### CVE :
+> - [EN] [CVE-2020-14516](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14516)
+
+---
+
 ## [VULNERABILITY] Mitsubishi Electric FA engineering software products
 _18/02/2021_
 ```
