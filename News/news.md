@@ -2,6 +2,48 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation Logix Controllers
+_25/02/2021_
+```
+Vulnerability affects :
+Rockwell software are affected:
+- RSLogix 5000: Versions 16 through 20
+- Studio 5000 Logix Designer: Versions 21 and later
+
+Logix Controllers :
+- CompactLogix 1768
+- CompactLogix 1769
+- CompactLogix 5370
+- CompactLogix 5380
+- CompactLogix 5480
+- ControlLogix 5550
+- ControlLogix 5560
+- ControlLogix 5570
+- ControlLogix 5580
+- DriveLogix 5560
+- DriveLogix 5730
+- DriveLogix 1794-L34
+- Compact GuardLogix 5370
+- Compact GuardLogix 5380
+- GuardLogix 5570
+- GuardLogix 5580
+- SoftLogix 5800
+
+Vulnerability risks:
+- bypass the verification mechanism
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-056-03)
+- [EN] [Rockwell](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1130301)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22681](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22681)
+
+---
+
 ## [VULNERABILITY] ProSoft Technology ICX35
 _25/02/2021_
 ```
