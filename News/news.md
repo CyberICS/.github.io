@@ -2,6 +2,32 @@
 
 ---
 
+## [VULNERABILITY] Fatek FvDesigner
+_25/02/2021_
+```
+Vulnerability affects :
+- FvDesigner Version 1.5.76 and prior
+
+Vulnerability risks:
+- read/modify information
+- execute arbitrary
+- crash the application
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-056-02)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22662](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22662)
+> - [EN] [CVE-2021-22670](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22670)
+> - [EN] [CVE-2021-22666](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22666)
+> - [EN] [CVE-2021-22683](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22683)
+> - [EN] [CVE-2021-22638](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22638)
+
+---
+
 ## [VULNERABILITY] Rockwell Automation Logix Controllers
 _25/02/2021_
 ```
