@@ -2,6 +2,60 @@
 
 ---
 
+## [ATTACK] Chinese hacker group targets India's power infrastructure
+_01/03/2020_
+```
+This report reports on a campaign by a Chinese attacking group (according to Recorded Future) targeting the Indian electricity sector. 
+Ten organizations close to the electricity sector were targeted and the name Recorded Future gave to the group behind the campaign is RedEcho.
+
+- IOC :
+ntpc-co.com
+websencl.com
+ptciocl.com
+ubuntumax.com
+www.shipcardonlinehelp.com
+www.smartdevoe.com
+www.astudycarsceu.net
+www.indiasunsung.com
+ixrails.com
+pandorarve.com
+indrails.com
+escanavupdate.club
+railway.sytes.net
+modibest.sytes.net
+indrra.ddns.net
+indianrailway.hopto.org
+inraja.ddns.net
+railways.hopto.org
+101.78.177.227
+101.78.177.252
+210.92.18.132
+218.255.77.52
+223.255.151.74
+223.255.155.231
+223.255.155.235
+223.255.155.238
+27.255.94.29
+27.255.94.21
+27.255.92.83
+223.255.151.85
+101.78.177.242
+218.255.77.40
+218.255.77.54
+223.255.155.243
+180.150.226.216
+223.255.155.247
+223.255.155.252
+223.255.155.237
+218.255.77.60
+```
+
+> ###### Sources :
+- [EN] [Recorded Future](https://go.recordedfuture.com/hubfs/reports/cta-2021-0228.pdf)
+- [EN] [Github Recorded Future](https://github.com/Insikt-Group/Research)
+
+---
+
 ## [VULNERABILITY] PerFact OpenVPN-Client
 _25/02/2021_
 ```
