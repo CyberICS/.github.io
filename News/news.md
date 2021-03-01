@@ -1,9 +1,34 @@
 # Industrial cybersecurity news
 
 ---
+## [RESSOURCES] TTPs about KAMACITE group 
+_01/03/2021_
+```
+Dragos today released a series of TTPs on the KAMACITE attacking group.
+Network :
+- Use of third party servers compromised with IPs (little use of domain name)
+- Use of phishing (Dragos quotes Ukrainian political and financial topics and conferences)
+- Password reuse (especially in the latest campaigns in the USA)
+
+Dragos attributes the following events to KAMACITE:
+- Blackenergy2 (2014)
+- Blackenergy3 (2015)
+- Intrusion for the ELECTRUM group (leading to CRASHOVERRIDE) (2016)
+- Intrusion into the German power grid (2017)
+- Intrusion into the US electrical sector (2019-2020)
+
+Source : https://www.dragos.com/blog/industry-news/new-ics-threat-activity-group-kamacite/
+
+More information is available here : 
+> https://malpedia.caad.fkie.fraunhofer.de/actor/greyenergy
+> https://malpedia.caad.fkie.fraunhofer.de/actor/sandworm
+> https://malpedia.caad.fkie.fraunhofer.de/actor/electrum
+```
+
+---
 
 ## [ATTACK] Chinese hacker group targets India's power infrastructure
-_01/03/2020_
+_01/03/2021_
 ```
 This report reports on a campaign by a Chinese attacking group (according to Recorded Future) targeting the Indian electricity sector. 
 Ten organizations close to the electricity sector were targeted and the name Recorded Future gave to the group behind the campaign is RedEcho.
