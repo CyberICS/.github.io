@@ -1,5 +1,25 @@
 # Industrial cybersecurity news
 
+## [VULNERABILITY] Hitachi ABB Power Grids Ellipse EAM
+_02/03/2021_
+```
+Vulnerability affects :
+- Ellipse EAM versions prior to and including 9.0.25
+
+Vulnerability risks:
+- hijack a user’s session
+- compromise authentication credentials
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-061-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27416](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27416)
+> - [EN] [CVE-2021-27414](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27414)
+
 ---
 
 ## [VULNERABILITY] Rockwell Automation CompactLogix 5370 and ControlLogix 5570 Controllers
