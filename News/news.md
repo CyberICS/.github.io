@@ -2,6 +2,33 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation CompactLogix 5370 and ControlLogix 5570 Controllers
+_02/03/2021_
+```
+Vulnerability affects :
+- Armor Compact GuardLogix 5370 controllers, Versions 33 and prior
+- Armor GuardLogix, Safety Controllers, Versions 33 and prior
+- CompactLogix 5370 L1 controllers, Versions 33 and prior
+- CompactLogix 5370 L2 controllers, Versions 33 and prior
+- CompactLogix 5370 L3 controllers, Versions 33 and prior
+- Compact GuardLogix 5370 controllers, Versions 33 and prior
+- ControlLogix 5570 controllers, Versions 33 and prior
+
+Vulnerability risks:
+- DoS
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-061-02)
+- [EN] [Rockwell](https://compatibility.rockwellautomation.com/Pages/MultiProductFindDownloads.aspx?crumb=112&refSoft=1&toggleState=&versions=59325,59316)
+
+> ###### CVE :
+> - [EN] [CVE-2020-6998](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6998)
+
+---
+
 ## [VULNERABILITY] MB connect line mbCONNECT24, mymbCONNECT24
 _02/03/2021_
 ```
