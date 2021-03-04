@@ -2,6 +2,38 @@
 
 ---
 
+## [VULNERABILITY] Schneider Electric EcoStruxure Building Operation (EBO)
+_04/03/2021_
+```
+Vulnerability affects :
+- WebReports v1.9 - v3.1
+- WebStation v2.0 - v3.1
+- Enterprise Server installer v1.9 - v3.1
+- Enterprise Central installer v2.0 - v3.1
+
+Vulnerability risks:
+- unauthorized file uploads
+- command execution by a remote use
+
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-063-02)
+- [EN] [SE](https://www.se.com/ww/en/download/document/SEVD-2020-315-02/)
+
+> ###### CVE :
+> - [EN] [CVE-2020-7569](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7569)
+> - [EN] [CVE-2020-7570](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7570)
+> - [EN] [CVE-2020-7571](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7571)
+> - [EN] [CVE-2020-7572](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7572)
+> - [EN] [CVE-2020-7573](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7573)
+> - [EN] [CVE-2020-28209](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28209)
+> - [EN] [CVE-2020-28210](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28210)
+
+---
+
 ## [ATTACK] Phishing and information theft campaign targeting many industries
 _04/03/2021_
 ```
