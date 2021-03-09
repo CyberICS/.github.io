@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY] Siemens SINEMA Remote Connect Server
+_09/03/2021_
+```
+Vulnerability affects :
+- SINEMA Remote Connect Server: All versions prior to v3.0
+
+Vulnerability risks:
+-
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-068-04)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-731317.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25239](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25239)
+> - [EN] [CVE-2020-25240](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25240)
+
+---
+
 ## [VULNERABILITY] Siemens LOGO! 8 BM
 _09/03/2021_
 ```
