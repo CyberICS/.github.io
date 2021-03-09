@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Siemens TCP Stack of SIMATIC MV400
+_09/03/2021_
+```
+Vulnerability affects :
+- SIMATIC MV400 family: All versions prior to v7.0.6
+
+Vulnerability risks:
+- DoS
+- Affect integrity of TCP connections
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://www.siemens.com/cert/advisories)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-068-07)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25241](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25241)
+> - [EN] [CVE-2020-27632](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27632)
+
+---
+
 ## [VULNERABILITY] Siemens Energy PLUSCONTROL 1st Gen
 _09/03/2021_
 ```
