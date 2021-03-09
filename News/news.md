@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] TCP/IP Stack Vulnerabilities–AMNESIA:33 in SENTRON PAC / 3VA Devices
+_09/03/2021_
+```
+Vulnerability affects :
+- SENTRON 3VA COM100/800: all versions
+- SENTRON 3VA DSP800: all versions
+- SENTRON PAC2200 (with CLP Approval): all versions
+- SENTRON PAC2200 (with MID Approval): all versions
+- SENTRON PAC2200 (without MID Approval): all versions
+- SENTRON PAC3200: all versions prior to v2.4.7
+- SENTRON PAC3200T: all versions
+- SENTRON PAC3220: all versions prior to v3.2.0
+- SENTRON PAC4200: all versions prior to v2.3.0
+
+Vulnerability risks:
+- DoS condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-068-06)
+- [EN] [Siemens](https://www.siemens.com/cert/advisories)
+
+> ###### CVE :
+> - [EN] [CVE-2020-13987](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-13987)
+> - [EN] [CVE-2020-17437](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17437)
+
+---
+
 ## [VULNERABILITY] Siemens TCP Stack of SIMATIC MV400
 _09/03/2021_
 ```
