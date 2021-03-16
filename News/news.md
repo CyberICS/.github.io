@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Advantech WebAccess/SCADA
+_16/03/2021_
+```
+Vulnerability affects :
+- WebAccess/SCADA Versions 9.0 and prior
+
+Vulnerability risks:
+- steal a user’s cookie/session token or redirect an authorized user to a malicious webpage
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-075-01)
+- [EN] [Advantech](https://www.advantech.com/support/details/manual?id=1-1J6QG9J)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27436](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27436)
+
+---
+
 ## [VULNERABILITY] VPort 06EC-2V Series IP
 _16/03/2021_
 ```
