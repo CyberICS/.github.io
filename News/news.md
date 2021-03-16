@@ -2,6 +2,25 @@
 
 ---
 
+## [VULNERABILITY] VPort 06EC-2V Series IP
+_16/03/2021_
+```
+Vulnerability affects :
+- VPort 06EC-2V Series (Firmware Version 1.1 or lower)
+
+Vulnerability risks:
+- NULL Pointer Dereference
+- Integer Underflow
+- Out-of-Bounds Read
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/product-support/security-advisory/vport-06ec-2v-series-ip-cameras-vulnerabilities)
+
+---
+
 ## [VULNERABILITY] Schneider Electric IGSS SCADA Software
 _11/03/2021_
 ```
