@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Hitachi ABB Power Grids AFS Series
+_16/03/2021_
+```
+Vulnerability affects :
+- AFS660/AFS665 Version 7.0.07 (with AFS660-SR and AFS665-SR variants)
+
+Vulnerability risks:
+- denial-of-service condition on one of the ports in a HSR ring
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ABB](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A9269&LanguageCode=en&DocumentPartId=&Action=Launch)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-075-03)
+
+> ###### CVE :
+> - [EN] [CVE-2020-9307](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-9307)
+
+---
+
 ## [VULNERABILITY] GE UR family
 _16/03/2021_
 ```
