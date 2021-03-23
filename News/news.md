@@ -2,6 +2,38 @@
 
 ---
 
+## [VULNERABILITY] EDR-810 Series Security Router Vulnerabilities
+_23/03/2021_
+```
+Vulnerability affects :
+- Firmware Version 5.7 or lower versions (details in sources)
+- Firmware Version 5.1 or lower versions (details in sources)
+
+Vulnerability risks:
+- RCE
+- Improper Restriction of Operations within the Bounds of a Memory Buffer
+- Exposure of Sensitive Information to an Unauthorized Actor
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/product-support/security-advisory/edr-810-series-security-router-vulnerabilities-(1))
+
+> ###### CVE :
+> - [EN] [CVE-2014-2284](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-2284)
+> - [EN] [CVE-2015-1788](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-1788)
+> - [EN] [CVE-2016-10012](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-10012)
+> - [EN] [CVE-2015-3195](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-3195)
+> - [EN] [CVE-2016-6515](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-6515)
+> - [EN] [CVE-2017-17562](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-17562)
+> - [EN] [CVE-2013-0169](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2013-0169)
+> - [EN] [CVE-2016-0703](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0703)
+> - [EN] [CVE-2013-1813](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2013-1813)
+> - [EN] [CVE-2010-2156](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2010-2156)
+
+---
+
 ## [VULNERABILITY] Hitachi ABB Power Grids AFS Series
 _16/03/2021_
 ```
