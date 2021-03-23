@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] GE Reason DR60
+_23/03/2021_
+```
+Vulnerability affects :
+- DR60: All firmware versions prior to 02A04.1
+
+Vulnerability risks:
+- remotely execute code
+- escalate privileges
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [GE](https://www.gegridsolutions.com/app/viewfiles.aspx?prod=DR60&type=21)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-082-03)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27454](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27454)
+> - [EN] [CVE-2021-27438](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27438)
+> - [EN] [CVE-2021-27440](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27440)
+
+---
+
 ## [VULNERABILITY] GE MU320E
 _23/03/2021_
 ```
