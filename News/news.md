@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] GE MU320E
+_23/03/2021_
+```
+Vulnerability affects :
+- All firmware versions prior to v04A00.1
+
+Vulnerability risks:
+-
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [GE](https://www.gegridsolutions.com/app/viewfiles.aspx?prod=MU320E&type=21)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-082-02)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27452](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27450)
+> - [EN] [CVE-2021-27452](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27448)
+> - [EN] [CVE-2021-27452](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27452)
+
+---
+
 ## [VULNERABILITY] Weintek EasyWeb cMT
 _23/03/2021_
 ```
