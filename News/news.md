@@ -18,6 +18,7 @@ See the documents below for more information
 ```
 
 > ###### Sources :
+- [EN] [Claroty](https://www.claroty.com/2021/04/01/blog-research-critical-vulnerabilities-found-in-rockwell-factorytalk-assetcentre/)
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-091-01)
 
 > ###### CVE :
