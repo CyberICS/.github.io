@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation FactoryTalk AssetCentre
+_01/04/2021_
+```
+Vulnerability affects :
+- FactoryTalk AssetCentre, v10.00 and earlier
+
+Vulnerability risks:
+- OS Command Injection
+- Deserialization of Untrusted Data
+- SQL Injection
+- Improperly Restricted Functions
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-091-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27462](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27462)
+> - [EN] [CVE-2021-27466](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27466)
+> - [EN] [CVE-2021-27470](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27470)
+> - [EN] [CVE-2021-27474](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27474)
+> - [EN] [CVE-2021-27476](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27476)
+> - [EN] [CVE-2021-27468](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27468)
+> - [EN] [CVE-2021-27472](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27472)
+> - [EN] [CVE-2021-27460](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27460)
+
+---
+
 ## [ATTACK] A41APT campaign: APT10 targets manufacturing industries  
 _30/03/2021_
 ```
