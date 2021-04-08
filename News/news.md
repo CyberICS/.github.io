@@ -2,6 +2,26 @@
 
 ---
 
+## [VULNERABILITY] FATEK Automation WinProladder
+_08/04/2021_
+```
+Vulnerability affects :
+- WinProladder Versions 3.30 and prior
+
+Vulnerability risks:
+- execution of arbitrary code
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-098-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-2748](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2748)
+
+---
+
 ## [VULNERABILITY] Rockwell Automation FactoryTalk AssetCentre
 _01/04/2021_
 ```
