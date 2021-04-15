@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] EIPStackGroup OpENer Ethernet/IP
+_15/04/2021_
+```
+Vulnerability affects :
+- https://github.com/EIPStackGroup/OpENer/ commits and versions prior to Feb 10, 2021
+
+Vulnerability risks:
+- denial-of-service condition
+- data exposure
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-105-02)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27498](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27498)
+> - [EN] [CVE-2021-27500](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27500)
+> - [EN] [CVE-2021-27482](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27482)
+> - [EN] [CVE-2021-27482](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27482)
+
+---
+
 ## [VULNERABILITY] Multiple vulnerablity in Siemens product
 _15/04/2021_
 ```
