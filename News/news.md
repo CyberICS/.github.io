@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Eaton Intelligent Power Manager
+_28/04/2021_
+```
+Vulnerability affects :
+- Eaton Intelligent Power Manager (IPM) – All versions prior to 1.69
+- Eaton Intelligent Power Manager Virtual Appliance (IPM VA) – All versions prior to 1.69
+- Eaton Intelligent Power Protector (IPP) – All versions prior to 1.68
+
+Vulnerability risks:
+- SQL Injection
+- Eval Injection
+- Improper Input Validation
+- Unrestricted Upload of File with Dangerous Type
+- Code Injection
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Eaton Advisories](https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/eaton-intelligent-power-manager-ipm-vulnerability-advisory.pdf)
+- [EN] [Eaton](https://www.eaton.com/us/en-us/products/backup-power-ups-surge-it-power-distribution/software-downloads.html)
+- [EN] [Eaton](https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-intelligent-power-manager/download-eaton-intelligent-power-manager-ipm.html)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-110-06)
+
+> ###### CVE :
+> - [EN] [CVE-2021-23276](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23276)
+
+
+---
+
 ## [VULNERABILITY] Delta Industrial Automation COMMGR
 _28/04/2021_
 ```
