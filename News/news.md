@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] DNS "Name:Wreck" for Rockwell Automation Products
+_29/04/2021_
+```
+Vulnerability affects :
+- Compact 5000™ I/O EtherNet/IP Adapter 
+- CompactLogix 5370 
+- ControlLogix® 5580 
+- CompactLogix 5380 
+- ControlLogix EtherNet/IP Module 
+
+Vulnerability risks:
+- Remote code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Rockwell Automation - login required](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1131196)
+
+> ###### CVE :
+> - [EN] [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009)
+
+---
+
 ## [VULNERABILITY] Texas Instruments SimpleLink
 _29/04/2021_
 ```
