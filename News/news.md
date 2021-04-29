@@ -1,5 +1,36 @@
 # Industrial cybersecurity news
 
+---
+
+## [VULNERABILITY] Texas Instruments SimpleLink
+_29/04/2021_
+```
+Vulnerability affects :
+- SimpleLink MSP432E4 SDK: v4.20.00.12 and prior
+- SimpleLink CC32XX SDK: v4.30.00.06 and prior
+- SimpleLink CC13X0 SDK: versions prior to v4.10.03
+- SimpleLink CC13X2 SDK: versions prior to v4.40.00
+- SimpleLink CC26XX SDK: versions prior to v4.40.00
+- CC3200 SDK: v1.5.0 and prior
+- CC3100 SDK: v1.3.0 and prior
+
+Vulnerability risks:
+- DoS
+- RCE
+- Memory corruption
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-119-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22671](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22671)
+> - [EN] [CVE-2021-22679](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22679)
+> - [EN] [CVE-2021-22675](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22675)
+> - [EN] [CVE-2021-22673](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22673)
+> - [EN] [CVE-2021-22677](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22677)
 
 ---
 
