@@ -1,5 +1,68 @@
 # Industrial cybersecurity news
 
+
+---
+
+## [VULNERABILITY] RTOS
+_29/04/2021_
+```
+Vulnerability affects :
+- Amazon FreeRTOS, Version 10.4.1
+- Apache Nuttx OS, Version 9.1.0
+- ARM CMSIS-RTOS2, versions prior to 2.1.3
+- ARM Mbed OS, Version 6.3.0
+- ARM mbed-uallaoc, Version 1.3.0
+- Cesanta Software Mongoose OS, v2.17.0
+- eCosCentric eCosPro RTOS, Versions 2.0.1 through 4.5.3
+- Google Cloud IoT Device SDK, Version 1.0.2
+- Linux Zephyr RTOS, versions prior to 2.4.0
+- Media Tek LinkIt SDK, versions prior to 4.6.1
+- Micrium OS, Versions 5.10.1 and prior
+- Micrium uCOS II/uCOS III Versions 1.39.0 and prior
+- NXP MCUXpresso SDK, versions prior to 2.8.2
+- NXP MQX, Versions 5.1 and prior
+- Redhat newlib, versions prior to 4.0.0
+- RIOT OS, Version 2020.01.1
+- Samsung Tizen RT RTOS, versions prior 3.0.GBB
+- TencentOS-tiny, Version 3.1.0
+- Texas Instruments CC32XX, versions prior to 4.40.00.07
+- Texas Instruments SimpleLink MSP432E4XX
+- Texas Instruments SimpleLink-CC13XX, versions prior to 4.40.00
+- Texas Instruments SimpleLink-CC26XX, versions prior to 4.40.00
+- Texas Instruments SimpleLink-CC32XX, versions prior to 4.10.03
+- Uclibc-NG, versions prior to 1.0.36
+- Windriver VxWorks, prior to 7.0
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-119-04)
+
+> ###### CVE :
+> - [EN] [CVE-2021-30636](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30636)
+> - [EN] [CVE-2021-27431](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27431)
+> - [EN] [CVE-2021-27433](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27433)
+> - [EN] [CVE-2021-27435](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27435)
+> - [EN] [CVE-2021-27427](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27427)
+> - [EN] [CVE-2021-22684](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22684)
+> - [EN] [CVE-2021-27439](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27439)
+> - [EN] [CVE-2021-27425](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27425)
+> - [EN] [CVE-2021-26461](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26461)
+> - [EN] [CVE-2020-35198](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35198)
+> - [EN] [CVE-2021-31571](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31571)
+> - [EN] [CVE-2021-27417](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27417)
+> - [EN] [CVE-2021-3420](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3420)
+> - [EN] [CVE-2021-27411](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27411)
+> - [EN] [CVE-2021-26706](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26706)
+> - [EN] [CVE-2021-27421](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27421)
+> - [EN] [CVE-2021-22680](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22680)
+> - [EN] [CVE-2021-27419](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27419)
+> - [EN] [CVE-2021-27429](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27429)
+> - [EN] [CVE-2021-22636](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22636)
+> - [EN] [CVE-2021-27504](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27504)
+> - [EN] [CVE-2021-27502](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27502)
+
 ---
 
 ## [VULNERABILITY] Moxa NPort
