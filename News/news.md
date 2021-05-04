@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Delta Electronics CNCSoft ScreenEditor
+_04/05/2021_
+```
+Vulnerability affects :
+- CNCSoft ScreenEditor versions prior to v1.01.28
+
+Vulnerability risks:
+- Remote code execution
+- DoS
+- Corruption of data
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-124-02)
+- [EN] [Delta Electronics](https://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&CID=06&itemID=060202&dataType=8&sort_expr=cdate&sort_dir=DESC)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22672](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22672)
+
+---
+
 ## [VULNERABILITY] DNS "Name:Wreck" for Rockwell Automation Products
 _29/04/2021_
 ```
