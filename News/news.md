@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Omron CX-One
+_12/05/2021_
+```
+Vulnerability affects :
+- CX-Server Versions 5.0.29.0 and prior
+
+Vulnerability risks:
+- arbitrary code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-01)
+
+
+> ###### CVE :
+> - [EN] [CVE-2021-27413](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27413)
+
+---
+
 ## [VULNERABILITY] Advantech WISE-PaaS RMM
 _04/05/2021_
 ```
