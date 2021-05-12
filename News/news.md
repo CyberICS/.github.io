@@ -2,6 +2,108 @@
 
 ---
 
+## [VULNERABILITY] Multiple vulnerability in Siemens product
+_12/05/2021_
+```
+Vulnerability affects :
+- SINAMICS GH150:All versions
+- SINAMICS GL150 (with option X30):All versions
+- SINAMICS GM150 (with option X30):All versions
+- SINAMICS SH150:All versions
+- SINAMICS SL150:All versions
+- SINAMICS SM120:All versions
+- SINAMICS SM150:All versions
+- SINAMICS SM150i:All versions
+- SIMATIC HMI Comfort Outdoor Panels 7" & 15"(incl. SIPLUS variants):All versions < V16 Update 4
+- SIMATIC HMI Comfort Panels 4" - 22"(incl. SIPLUS variants):All versions < V16 Update 4
+- SIMATIC  HMI  KTP  Mobile  Panels  KTP400F,KTP700, KTP700F, KTP900 and KTP900F:All versions < V16 Update 4
+- SIMATIC WinCC Runtime Advanced:All versions < V16 Update 4
+- SCALANCE W1750D:V8.7.0
+- SCALANCE W1750D:All versions < V8.7.0
+- SIMATIC ITC1500 V3.1 PRO:
+- SIMATIC ITC1500 V3.1:
+- SIMATIC ITC1900 V3.1 PRO:
+- SIMATIC ITC1900 V3.1:
+- SIMATIC ITC2200 V3.1 PRO:
+- SIMATIC ITC2200 V3.1:
+- SIMATIC WinCC Runtime Advanced:
+- SIMATIC WinCC Runtime Professional:
+
+Vulnerability risks:
+-
+
+Details :
+- SSA-116379: Denial-of-Service Vulnerability in OSPF Packet Handling of SCALANCE XM-400 and XR-500 Devices
+- SSA-286838: Multiple Vulnerabilities in SINAMICS Medium Voltage Products
+- SSA-324955: SAD DNS Attack in Linux Based Products
+- SSA-501073: Vulnerabilities in Controllers CPU 1518 MFP using Intel CPUs (November 2020)
+- SSA-538778: SmartVNC Vulnerabilities in SIMATIC HMI/WinCC Products
+- SSA-594364: Denial-of-Service Vulnerability in SNMP Implementation of WinCC Runtime
+- SSA-676775: Denial-of-Service Vulnerability in SIMATIC NET CP 343-1 Devices
+- SSA-678983: Vulnerabilities in Industrial PCs and CNC devices using Intel CPUs (November 2020)
+- SSA-723417: Multiple Vulnerabilities in SCALANCE W1750D
+- SSA-752103: Telnet Authentication Vulnerability in SINAMICS Medium Voltage Products
+- SSA-854248: Information Disclosure Vulnerability in Mendix Excel Importer Module
+- SSA-919955: Information Disclosure Vulnerability in Mendix Database Replication Module
+- SSA-940818: UltraVNC Vulnerabilities in SIMATIC HMIs/WinCC Products
+- SSA-983548: Multiple SPP File Parsing Vulnerabilities in Tecnomatix Plant Simulation
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens - ssa-116379](https://cert-portal.siemens.com/productcert/pdf/ssa-116379.pdf)
+- [EN] [Siemens - ssa-286838](https://cert-portal.siemens.com/productcert/pdf/ssa-286838.pdf)
+- [EN] [Siemens - ssa-324955](https://cert-portal.siemens.com/productcert/pdf/ssa-324955.pdf)
+- [EN] [Siemens - ssa-501073](https://cert-portal.siemens.com/productcert/pdf/ssa-501073.pdf)
+- [EN] [Siemens - ssa-538778](https://cert-portal.siemens.com/productcert/pdf/ssa-538778.pdf)
+- [EN] [Siemens - ssa-594364](https://cert-portal.siemens.com/productcert/pdf/ssa-594364.pdf)
+- [EN] [Siemens - ssa-676775](https://cert-portal.siemens.com/productcert/pdf/ssa-676775.pdf)
+- [EN] [Siemens - ssa-678983](https://cert-portal.siemens.com/productcert/pdf/ssa-678983.pdf)
+- [EN] [Siemens - ssa-723417](https://cert-portal.siemens.com/productcert/pdf/ssa-723417.pdf)
+- [EN] [Siemens - ssa-752103](https://cert-portal.siemens.com/productcert/pdf/ssa-752103.pdf)
+- [EN] [Siemens - ssa-854248](https://cert-portal.siemens.com/productcert/pdf/ssa-854248.pdf)
+- [EN] [Siemens - ssa-919955](https://cert-portal.siemens.com/productcert/pdf/ssa-919955.pdf)
+- [EN] [Siemens - ssa-940818](https://cert-portal.siemens.com/productcert/pdf/ssa-940818.pdf)
+- [EN] [Siemens - ssa-983548](https://cert-portal.siemens.com/productcert/pdf/ssa-983548.pdf)
+- [EN] [Siemens - ssb-439005](https://cert-portal.siemens.com/productcert/pdf/ssb-439005.pdf)
+- [EN] [Siemens - ssa-462066](https://cert-portal.siemens.com/productcert/pdf/ssa-462066.pdf)
+- [EN] [Siemens - ssa-478893](https://cert-portal.siemens.com/productcert/pdf/ssa-478893.pdf)
+- [EN] [Siemens - ssa-541018](https://cert-portal.siemens.com/productcert/pdf/ssa-541018.pdf)
+- [EN] [Siemens - ssa-646763](https://cert-portal.siemens.com/productcert/pdf/ssa-646763.pdf)
+- [EN] [Siemens - ssa-794542](https://cert-portal.siemens.com/productcert/pdf/ssa-794542.pdf)
+- [EN] [Siemens - ssa-936080](https://cert-portal.siemens.com/productcert/pdf/ssa-936080.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-09)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-08)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-07)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-06)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-05)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-04)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-03)
+- [FR] [ANSSI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-357/)
+
+> ###### CVE :
+> - [EN] [CVE-2019-15678](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-15678)
+> - [EN] [CVE-2019-15679](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-15679)
+> - [EN] [CVE-2019-15680](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-15680)
+> - [EN] [CVE-2019-8287](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8287)
+> - [EN] [CVE-2021-27383](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27383)
+> - [EN] [CVE-2021-27384](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27384)
+> - [EN] [CVE-2021-27385](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27385)
+> - [EN] [CVE-2021-27386](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27386)
+> - [EN] [CVE-2019-8259](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8259)
+> - [EN] [CVE-2019-8260](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8260)
+> - [EN] [CVE-2019-8261](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8261)
+> - [EN] [CVE-2019-8262](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8262)
+> - [EN] [CVE-2019-8263](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8263)
+> - [EN] [CVE-2019-8264](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8264)
+> - [EN] [CVE-2019-8265](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8265)
+> - [EN] [CVE-2019-8275](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8275)
+> - [EN] [CVE-2019-8277](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8277)
+> - [EN] [CVE-2019-8280](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-8280)
+
+---
+
 ## [VULNERABILITY] Mitsubishi Electric GOT and Tension Controller
 _12/05/2021_
 ```
