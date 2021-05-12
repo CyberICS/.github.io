@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Mitsubishi Electric GOT and Tension Controller
+_12/05/2021_
+```
+Vulnerability affects :
+- GOT2000 series
+    - GT27 model: Versions 01.19.000 - 01.38.000
+    - GT25 model: Versions 01.19.000 - 01.38.000
+    - GT23 model: Versions 01.19.000 - 01.38.000
+    - GT21 model: Versions 01.21.000 - 01.39.000
+- GOT SIMPLE series
+    - GS21 model: Versions 01.21.000 - 01.39.000
+- GT SoftGOT2000: Versions 1.170C - 1.250L
+- LE7-40GU-L: Screen package data for MODBUS/TCP v1.00
+
+
+Vulnerability risks:
+- A malicious attacker can stop the communication function of the productsby sending a specially crafted packet
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Mitsubishi Electric](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-002_en.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-131-02)
+
+> ###### CVE :
+> - [EN] [CVE-2021-20589](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20589)
+
+---
+
 ## [VULNERABILITY] Omron CX-One
 _12/05/2021_
 ```
