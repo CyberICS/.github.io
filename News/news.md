@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation Connected Components Workbench
+_17/05/2021_
+```
+Vulnerability affects :
+- Connected Components Workbench v12.00.00 and prior
+
+Vulnerability risks:
+- remote code execution
+- authentication bypass
+- privilege escalation
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-133-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27475](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27475)
+> - [EN] [CVE-2021-27471](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27471)
+> - [EN] [CVE-2021-27473](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27473)
+
+---
+
 ## [VULNERABILITY] Vulnerabilities in Siemens JT2Go and Teamcenter Visualization
 _17/05/2021_
 ```
