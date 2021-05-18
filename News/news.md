@@ -2,6 +2,19 @@
 
 ---
 
+## [ATTACK] Attack on SCADA equipment in Israel by hackers  
+_18/05/2021_
+```
+Attackers have hacked into more than 5,000 surveillance cameras and SCADA system equipment in Israel. 
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Twitter](https://twitter.com/ersincmt/status/1394653626728165384)
+
+---
+
 ## [VULNERABILITY] Rockwell Automation Connected Components Workbench
 _17/05/2021_
 ```
