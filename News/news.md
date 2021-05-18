@@ -2,6 +2,38 @@
 
 ---
 
+## [VULNERABILITY] Emerson Rosemount X-STREAM
+_18/05/2021_
+```
+Vulnerability affects :
+- X-STREAM enhanced XEGP – all revisions
+- X-STREAM enhanced XEGK – all revisions
+- X-STREAM enhanced XEFD – all revisions
+- X-STREAM enhanced XEXF – all revisions
+
+
+Vulnerability risks:
+- obtain sensitive information
+- modify configuration
+- affect the availability of the device
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-138-01)
+- [EN] []()
+
+> ###### CVE :
+> - [EN] [CVE-2021-27457](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27457)
+> - [EN] [CVE-2021-27459](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27459)
+> - [EN] [CVE-2021-27461](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27461)
+> - [EN] [CVE-2021-27463](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27463)
+> - [EN] [CVE-2021-27465](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27465)
+> - [EN] [CVE-2021-27467](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27467)
+
+---
+
 ## [ATTACK] Attack on SCADA equipment in Israel by hackers  
 _18/05/2021_
 ```
