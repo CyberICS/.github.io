@@ -2,6 +2,57 @@
 
 ---
 
+## [VULNERABILITY] WAGO: Multiple Vulnerabilities in CODESYS Runtime 2.3
+_21/05/2021_
+```
+Vulnerability affects :
+  - 750-823 	<=FW07
+  - 750-829 	<=FW14
+  - 750-831/000-00x 	<=FW14
+  - 750-832/000-00x 	<=FW06
+  - 750-852 	<=FW14
+  - 750-862 	<=FW07
+  - 750-880/0xx-xxx 	<=FW15
+  - 750-881 	<=FW14
+  - 750-882 	<=FW14
+  - 750-885/0xx-xxx 	<=FW14
+  - 750-889 	<=FW14
+  - 750-890/0xx-xxx 	<=FW07
+  - 750-891 	<=FW07
+  - 750-893 	<=FW07
+  - 750-8202/xxx-xxx 	<03.06.19 (18)
+  - 750-8203/xxx-xxx 	<03.06.19 (18)
+  - 750-8204/xxx-xxx 	<03.06.19 (18)
+  - 750-8206/xxx-xxx 	<03.06.19 (18)
+  - 750-8207/xxx-xxx 	<03.06.19 (18)
+  - 750-8208/xxx-xxx 	<03.06.19 (18)
+  - 750-8210/xxx-xxx 	<03.06.19 (18)
+  - 750-8211/xxx-xxx 	<03.06.19 (18)
+  - 750-8212/xxx-xxx 	<03.06.19 (18)
+  - 750-8213/xxx-xxx 	<03.06.19 (18)
+  - 750-8214/xxx-xxx 	<03.06.19 (18)
+  - 750-8216/xxx-xxx 	<03.06.19 (18)
+  - 750-8217/xxx-xxx 	<03.06.19 (18)
+
+Vulnerability risks:
+- Out-of-bounds Read
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CERT VDE](https://cert.vde.com/de-de/advisories/vde-2021-014)
+- [EN] [CODESYS](https://customers.codesys.com/index.php?eID=dumpFile&t=f&f=14637&token=8dbd75ae7553ae3be25e22f741db783b31e14799&download=)
+
+> ###### CVE :
+> - [EN] [CVE-2021-21000](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21000)
+> - [EN] [CVE-2021-21001](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21001)
+> - [EN] [CVE-2021-30186](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30186)
+> - [EN] [CVE-2021-30188](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30188)
+> - [EN] [CVE-2021-30195](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-30195)
+
+---
+
 ## [VULNERABILITY] Stack Overflow and XXE vulnerability in various OPC UA products
 _21/05/2021_
 ```
