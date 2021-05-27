@@ -2,6 +2,33 @@
 
 ---
 
+## [VULNERABILITY] MesaLabs AmegaView
+_27/05/2021_
+```
+Vulnerability affects :
+- AmegaView Versions 3.0 and prior
+
+Vulnerability risks:
+- Command Injection
+- Improper Authentication
+- Authentication Bypass Using an Alternate Path or Channel
+- Improper Privilege Management
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-147-03)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27447](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27447)
+> - [EN] [CVE-2021-27451](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27451)
+> - [EN] [CVE-2021-27453](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27453)
+> - [EN] [CVE-2021-27449](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27449)
+> - [EN] [CVE-2021-27445](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27445)
+
+---
+
 ## [VULNERABILITY] Siemens Datakit Libraries bundled in Luxion KeyShot
 _25/05/2021_
 ```
