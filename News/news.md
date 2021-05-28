@@ -2,6 +2,26 @@
 
 ---
 
+## [VULNERABILITY] NPort IAW5000A-I/O Series Serial Device Server Vulnerabilities
+_28/05/2021_
+```
+Vulnerability affects :
+- NPort IAW5000A-I/O Series -	Firmware Version 2.2 or lower
+
+Vulnerability risks:
+- Buffer Overflow
+- Stack-Based Buffer Overflow
+- Improper Input Validation
+- OS Command Injection
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/product-support/security-advisory/nport-iaw5000a-io-serial-device-server-vulnerabilities)
+
+---
+
 ## [VULNERABILITY] GENIVI Alliance DLT
 _27/05/2021_
 ```
