@@ -2,6 +2,31 @@
 
 ---
 
+## [VULNERABILITY] ABB - Amnesia:33
+_01/07/2021_
+```
+Vulnerability affects :
+- B&R Ethernet-based Bus Controllers and related products
+- B&R Ethernet-based Customized HMI devices (e.g. Keyboards)
+- B&R Motion Control products
+- B&R Track Technology products
+
+Vulnerability risks:
+- Out-of-bounds read when calculating the checksums for IP packets
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [BR AUTOMATION](https://www.br-automation.com/downloads_br_productcatalogue/assets/1621259206587-en-original-1.0.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987)
+> - [EN] [CVE-2020-17438](https://nvd.nist.gov/vuln/detail/CVE-2020-17438)
+
+---
+
 ## [VULNERABILITY] AVEVA System Platform
 _01/07/2021_
 ```
