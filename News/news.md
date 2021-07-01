@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Johnson Controls Facility Explorer
+_01/07/2021_
+```
+Vulnerability affects :
+- Facility Explorer SNC Series Supervisory Controller: Version 11
+
+Vulnerability risks:
+- authenticated user an unintended level of access to the controller’s file system
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-182-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27661](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27661)
+
+---
+
 ## [VULNERABILITY] ABB - Amnesia:33
 _01/07/2021_
 ```
